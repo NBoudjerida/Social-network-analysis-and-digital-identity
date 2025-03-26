@@ -1,6 +1,5 @@
 # 🔗 Analyse d’un Réseau de Transactions sur la Blockchain (NFT - Brokieball)
 
-![Page de Garde 7](https://github.com/user-attachments/assets/a4d34eb0-8170-412c-938a-c4bc5bc4f47b)
 
 ***📖 Ce qu'est le projet***
 
